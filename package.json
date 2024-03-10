@@ -1,0 +1,19 @@
+{
+  "name": "cfuerte-lab4",
+  "version": "1.0.0",
+  "description": "Building a node.js social platform.",
+  "main": "server/app.js",
+  "scripts": {
+    "test": ".gitignore",
+    "start": "node server/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "cfuerte-lab4"
+  },
+  "author": "Caroline Fuerte",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
